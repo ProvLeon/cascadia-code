@@ -338,4 +338,5 @@ converter.py
 salishan/
 fixTSI1.py
 venv/
-.vscode/settings.json
+temp_auto_push.bat
+temp_interactive_push.bat
